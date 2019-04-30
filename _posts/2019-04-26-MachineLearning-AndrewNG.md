@@ -7,4 +7,7 @@ permalink: /ML-NG/
 ---
 
 
-<p style="color:red">吴恩达机器学习
+<p style="color:blue">吴恩达机器学习</p>
+$$
+X \times Y
+$$
